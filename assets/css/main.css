@@ -1735,7 +1735,7 @@ section,
 
 @media  screen and (max-width: 500px ) {
   .hero{
-    min-height: 100px;
+    min-height: 300px !important;
   }
 }
 @media  screen and (max-width: 500px ) {
